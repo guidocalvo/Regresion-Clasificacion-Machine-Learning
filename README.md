@@ -96,7 +96,8 @@ Se realiza el entrenamiento y las validaciones.
 
 Gráficos de dispersión entre valores reales y predichos.
 
-<img width="479" height="388" alt="image" src="https://github.com/user-attachments/assets/7e5d7543-d81c-44b1-ae09-e24d499aa847" />
+<img width="479" height="388" alt="image" src="https://github.com/user-attachments/assets/7e5d7543-d81c-44b1-ae09-e24d499aa847" />     
+
 
 Comparación de distribuciones (histogramas/KDE).
 
