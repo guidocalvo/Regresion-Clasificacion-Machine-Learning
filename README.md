@@ -127,9 +127,13 @@ Luego, se realiza el entrenamiento y la validación del modelo.
 
 <img width="507" height="455" alt="image" src="https://github.com/user-attachments/assets/42bff4ab-1673-470a-87b1-24b560ea8208" />
 
+
 Verdaderos negativos (TN = 8): 8 muestras negativas fueron detectadas correctamente.
+
 Falsos positivos (FP = 7): 7 muestras negativas fueron clasificadas como positivas.
+
 Falsos negativos (FN = 0): no hay ejemplos reales positivos clasificados como negativos.
+
 Verdaderos positivos (TP = 185): las 185 muestras positivas se detectaron correctamente.
 
 ### Importancia de las características
