@@ -1,4 +1,4 @@
-# Modelos de regresión y clasificación de Machine Learning
+# Modelos de regresión y clasificación con Machine Learning
 
 ## 📖 Descripción del Proyecto
 
